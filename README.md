@@ -27,4 +27,4 @@ per-platform retry on partial failure · API keys · React dashboard
 
 ## Contact
 
-rishikeshkumar.work@gmail.com · [LinkedIn]([URL NEEDED](https://www.linkedin.com/in/rishikesh-kumar-dev/ ))
+rishikeshkumar.work@gmail.com · ([LinkedIn](https://www.linkedin.com/in/rishikesh-kumar-dev/ ))
