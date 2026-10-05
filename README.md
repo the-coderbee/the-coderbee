@@ -1,28 +1,30 @@
-## 👋 Hi, I’m Rishikesh (the‑coderbee)
+# Rishikesh Kumar
 
-## 🎯 I’m on a mission to "Building robust web APIs & delightful front‑end experiences”.
+Backend engineer working in Python and Rust. I build APIs, third-party
+integrations, and the infrastructure that keeps them running.
 
-## 🚀 Skills & Tech Stack
-- **Backend:** Python, Flask, FastAPI, Django  
-- **Frontend:** React, Next.js, Tailwind CSS, JavaScript  
-- **Database:** PostgreSQL, SQLite  
-- **Dev & Tools:** Git, Docker, CI/CD (GitHub Actions), Postman, Insomnia  
-- **Learning:** Machine Learning (scikit‑learn, TensorFlow)
+Open to freelance projects and full-time backend roles.
 
-## 💼 What I’m Working On
-- **Discord Bot** 🤖—A modular bot with music, moderation, and AI‑powered features. (WIP)  
-- **PalWorld API** 🎮—FastAPI‑based game data service for PalWorld. (WIP)
+## Selected work
 
-## 📂 Featured Projects
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| Discord Bot | Custom Discord bot with feature X, Y, Z | Python, discord.py | [Repo](link) |
-| PalWorld API | Game API with endpoints for items, players | FastAPI, PostgreSQL | [Repo](link) |
-| Endgame Assembly | Word‑guessing game | React, Tailwind | [Repo](link) |
+**[iron-proxy](https://github.com/the-coderbee/iron-proxy)** — Reverse proxy and load balancer in Rust (tokio, hyper)
+L4 TCP and L7 HTTP engines · Peak EWMA, least-connections and IP-hash balancing ·
+hot config reload · health checks and retries · Prometheus metrics · CI, Docker image, mdBook docs
 
-## 📫 How to Reach Me
-- 📧 Email: rishikeshkumar.work@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/rishikeshkumar](link)  
+**[unified-social-api](https://github.com/the-coderbee/unified-social-api)** — Post once, publish to X, Discord, LinkedIn and Mastodon
+Async FastAPI · SQLAlchemy 2.0 · PostgreSQL · Redis · OAuth2 with PKCE ·
+per-platform retry on partial failure · API keys · React dashboard
 
-## 🤝 Let’s Collaborate
-I’m open to internships, freelance, and open‑source contributions. Let’s build something awesome!
+**[Grav-Sim](https://github.com/the-coderbee/Grav-Sim)** — GPU n-body gravity simulation in Rust with wgpu
+
+## Stack
+
+**Languages:** Python, Rust
+**Backend:** FastAPI, Django, Flask, tokio, hyper
+**Data:** PostgreSQL, MySQL, Redis
+**Infra:** Docker, GitHub Actions, AWS
+**Frontend (when a project needs it):** React
+
+## Contact
+
+rishikeshkumar.work@gmail.com · [LinkedIn]([URL NEEDED](https://www.linkedin.com/in/rishikesh-kumar-dev/ ))
